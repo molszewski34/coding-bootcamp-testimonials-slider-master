@@ -1,6 +1,6 @@
 # coding-bootcamp-testimonials-slider-master
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
+![image](https://github.com/molszewski34/coding-bootcamp-testimonials-slider-master/blob/main/coding-bootcamp-testimonials-slider-master.png)
 
 coding-bootcamp-testimonials-slider-master is a simple site build with only html, css and javascript. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
 
